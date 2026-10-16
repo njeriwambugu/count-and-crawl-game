@@ -1,14 +1,3 @@
-/**mpya
- * - Three.js for 3D rendering
- * - Raycasting for mouse/touch input
- * - Physics: body chain IK, momentum//haikua rahisi
- * - Grid-based orb spawning system
- * - Collision detection with sweep
- * 
- * Flow:
- * boot() → initThree() → setupLighting() → buildWorld() →
- * createBug() → setupControls() → setupUI() → gameLoop()
- */
 const TILE_SIZE = 26;           
 const TILE_COUNT = 9;           
 const SEG_COUNT = 11;           
