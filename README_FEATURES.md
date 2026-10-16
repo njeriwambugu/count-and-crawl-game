@@ -1,9 +1,9 @@
 # Count & Crawl 3D - Complete Feature List  
 
-## 🎮 PHASE 1: CORE FEATURES (✅ Complete)
+## PHASE 1: CORE FEATURES (Complete)
 
 ### Gameplay Mechanics
-- ✅ Infinite 3D grass world with tile recycling
+-  Infinite 3D grass world with tile recycling
 - ✅ Bug character with chain IK physics
 - ✅ Touch/mouse input with sensitivity tuning
 - ✅ Collision detection (distance-based)
